@@ -1,0 +1,2 @@
+The only difference between the drift corrected data and the drift corrected_transformed data is that the drift corrected_transformed data has been filtered
+for localization precision in XY less than 30 nm for faster processing of the csv.
