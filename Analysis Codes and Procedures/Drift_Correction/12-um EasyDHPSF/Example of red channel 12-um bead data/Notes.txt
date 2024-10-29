@@ -1,0 +1,4 @@
+This data is of fiducial beads imaged with the 12-um DHPSF in the red channel during imaging of LaminB1 in the green channel.
+The "Left0umslice" in the name refers to the z position of the current slice that we were taking (0 um slice) and the "Left" refers to
+us positioning the light sheet towards the left of the cell to gain some localizations on that side. We ended up not using this data set
+in the final reconstruction of the multi-target nuclear lamina sample.
